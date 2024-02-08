@@ -10,7 +10,7 @@
 
 
 
-<p align="left">👨🏻‍💻 Soy un apasionado Backend Developer con más de dos años de experiencia.<br>📚 Actualmente estudio Data Science en la Universidad de Buenos Aires (UBA).<br>🤩 Lleno de curiosidad por aprender nuevas herramientas y tecnologías.</p>
+<p align="left">👨🏻‍💻 Soy un apasionado Backend Developer con más de dos años de experiencia.<br>📚 Actualmente estudio Data Science en la Universidad de Buenos Aires (UBA).<br>🛠 Mi experiencia laboral forjó mi disciplina y adaptabilidad y mi curiosidad me mantiene constantemente perfeccionando y aprendiendo.</p>
 
 
 
