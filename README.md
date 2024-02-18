@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="auto" width="100%" src="https://github.com/FujiwaraChoki/MoneyPrinter/assets/117545543/6c7df489-d35a-41f0-909f-d9cc69dbe415"  />
+  <img height="auto" width="100%" src="https://github.com/xXMaxnezyusXx/xXMaxnezyusXx/assets/117545543/1c0ddc55-6bb9-4f8a-ab53-d27e3b2a44ae"  />
 </div>
 
 
